@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default defineConfig({ 
   title: "zz學無止境℡",
   description: "zz學無止境℡的学习笔记",
   themeConfig: {
